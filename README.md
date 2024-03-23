@@ -18,6 +18,6 @@
   5.What is PyEngine written in
    PyEngine is written in python
 
-   6.Does PyEngine or **WILL** PyEngine cost money
+   6.Does PyEngine or **WILL** PyEngine cost money<br>
     No PyEngine will be a open source project that I work on in my free time 
     so no it will not be paid but you will be able to donate
