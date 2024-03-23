@@ -1,5 +1,5 @@
 ![Alt text](pyengine.png)
-**PyEngine is a work is progress game engine that exports to web/linux/windows/mac os/android/ios**<br>
+**PyEngine is a work is progress game engine that exports to web/linux/windows/mac os/android/ios**
 
 # WHAT IS PYENGINE<br>
 
