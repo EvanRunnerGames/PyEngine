@@ -3,7 +3,6 @@
 
 # WHAT IS PYENGINE
 
-
 1.So PyEngine supports a variety of platforms so which language do you write in it python, and soon
  to be a visual scripting solution
 
@@ -22,10 +21,7 @@
    6.Does PyEngine or **WILL** PyEngine cost money
     No PyEngine will be a open source project that I work on in my free time 
     so no it will not be paid but you will be able to donate
-
-    # My Goal
-
-    I hope to make pyengine a easy to use game engine for anybody and everybody from the people with no experience
-    and to the experienced developers
-    
-   
+    /
+    # Our Goal/My Goal
+    I hope to make pyengine a easy to use game engine for anybody and everybody 
+    from the people with no experience and to the experienced developers
