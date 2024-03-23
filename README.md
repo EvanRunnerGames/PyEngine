@@ -22,6 +22,6 @@
     No PyEngine will be a open source project that I work on in my free time 
     so no it will not be paid but you will be able to donate
     
-**    # Our Goal/My Goal
-    I hope to make pyengine a easy to use game engine for anybody and everybody 
-    from the people with no experience and to the experienced developers**
+   #Our Goal/My Goal
+     I hope to make pyengine a easy to use game engine for anybody and everybody 
+     from the people with no experience and to the experienced developers
